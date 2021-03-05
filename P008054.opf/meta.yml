@@ -1,15 +1,16 @@
-id: opecha:P008054
+id: P008054
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W4CZ1107
   title: 'གསུང་འབུམ། ཚེ་དབང་རྣམ་རྒྱལ། '
-  volume:
+  author: ''
+  volumes:
     b9bc306939a04c47942ff6ca77cd9eee:
       image_group_id: I1KG16813
       title: Volume 1 of gsung 'bum/_tshe dbang rnam rgyal/
       volume_number: 1
       total_pages: 634
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: 'གསུང་འབུམ། ཚེ་དབང་རྣམ་རྒྱལ། '
   author: ''
